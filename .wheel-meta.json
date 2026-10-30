@@ -1,0 +1,22 @@
+{
+  "wheel_id": 552,
+  "structure": "umbrella",
+  "slug": "webdesignperthaustralia-103",
+  "project": "web-design-perth-red-flags-76b268753acb57a4853a46b6db2fc206528b",
+  "parent_t1_ref": "webdesignperthaustralia-151",
+  "node_role": "feeder",
+  "money_target": "webdesignperthaustralia.com.au",
+  "primary_kw": "web design perth red flags",
+  "intended_url": "http://web-design-perth-red-flags-76b268753acb57a4853a46b6db2fc206528b.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "ee9ba1db1976fbab",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/webdesignperthaustralia-151/",
+      "anchor": "Web Design Perth Beginner Guide: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
